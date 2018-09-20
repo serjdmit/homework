@@ -28,3 +28,4 @@ truck.fillTrunk(fill: 50)
 
 print("Модель машины - \(car.model).")
 print("Модель грузовика - \(truck.model).")
+
